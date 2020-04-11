@@ -1,0 +1,100 @@
+{
+    "signatures": [
+
+        {
+            "sig" : "deflate *.*.* Copyright",
+            "name" : "deflate (zlib)",
+            "link" : "https://github.com/commontk/zlib/blob/master/deflate.c"
+        },
+
+        {
+            "sig" : "ZipArchive library Copyright",
+            "name" : "ZipArchive library",
+            "link" : "https://www.artpol-software.com/ZipArchive/"
+        },
+
+        {
+            "sig" : "inflate *.*.* Copyright",
+            "name" : "inflate (zlib)",
+            "link" : "https://github.com/commontk/zlib/blob/master/inftrees.c"
+        },
+
+        {
+            "sig" : "Lua.org, PUC-Rio",
+            "name" : "Lua library",
+            "link" : "https://www.lua.org/download.html"
+        },
+
+        {
+            "sig" : " Python Software Foundation.",
+            "name" : "Python library",
+            "link" : "https://github.com/python/cpython"
+        },
+
+        {
+            "sig" : "zip *.* Copyright",
+            "name" : "zip (zlib)",
+            "link" : "https://github.com/madler/zlib"
+        },
+
+        {
+            "sig" : "unzip *.* Copyright",
+            "name" : "unzip (zlib)",
+            "link" : "https://github.com/madler/zlib"
+        },
+
+        {
+            "sig" : "SQLite format ",
+            "name" : "SQLite library",
+            "link" : "https://www.sqlite.org/download.html"
+        },
+
+        {
+            "sig" : "Tried to copy AVCodecContext",
+            "name" : "Libavcodec",
+            "link" : "https://ffmpeg.org/doxygen/0.9/libavcodec_2options_8c-source.html"
+        },
+
+        {
+            "sig" : "ImGui",
+            "name" : "ImGui",
+            "link" : "https://github.com/ocornut/imgui"
+        },
+
+        {
+            "sig" : "UNRAR * freeware * Copyright (c) 1993-*",
+            "name" : "unrar library",
+            "link" : "https://github.com/pmachapman/unrar"
+        },
+
+        {
+            "sig" : "RAR * Copyright",
+            "name" : "rar library",
+            "link" : "https://github.com/pmachapman/unrar"
+        },
+
+        {
+            "sig" : "lib7Zip *.*",
+            "name" : "7zip library",
+            "link" : "https://github.com/stonewell/lib7zip"
+        },
+
+        {
+            "sig" : "Copyright (c) 1999-* Igor Pavlov",
+            "name" : "7zip library",
+            "link" : "https://github.com/kornelski/7z"
+        },
+
+        {
+            "sig" : "in Json::Value::duplicateStringValue()",
+            "name" : "JsonCpp",
+            "link" : "https://github.com/open-source-parsers/jsoncpp/blob/master/src/lib_json/json_value.cpp"
+        },
+
+        {
+            "sig" : "JSON for Modern C++",
+            "name" : "JSON for Modern C++",
+            "link" : "https://github.com/nlohmann/json"
+        }
+    ]
+}
